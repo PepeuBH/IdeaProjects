@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2784bba-9349-4e5f-860e-9088abb0040f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AED2 Lista 2 Ex 1/AED2 Lista 2 Ex 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aluno/Aluno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaComposicao001/AulaComposicao001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaComposicao002/AulaComposicao002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AulaVetoresParte2/AulaVetoresParte2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combinador/Combinador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copa do Mundo ArquivoTXT/Copa do Mundo ArquivoTXT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copa do Mundo/Copa do Mundo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundo Fila Celula/CopaDoMundo Fila Celula.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundo Fila Circular/CopaDoMundo Fila Circular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoBabouSorte/CopaDoMundoBabouSorte.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoInsertion/CopaDoMundoInsertion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoListaVetor/CopaDoMundoListaVetor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoMerge/CopaDoMundoMerge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoProfessor/CopaDoMundoProfessor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoQuick/CopaDoMundoQuick.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopaDoMundoSelection/CopaDoMundoSelection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcionario/Funcionario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heranca001/Heranca001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsTeste3/InsTeste3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDupEncad/ListaDupEncad.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memebros Estaticos/Memebros Estaticos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeTeste2/MergeTeste2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratica Introducao Verde Recursivo/Pratica Introducao Verde Recursivo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratica-1/Pratica-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratica-2/Pratica-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produto/Produto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/Teste.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste2/Teste2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabalhoOrdenacaoCopaBubble/TrabalhoOrdenacaoCopaBubble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangulo/Triangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste3/teste3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KHtm9JPF6tBk3pmap2l1DLvdef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2784bba-9349-4e5f-860e-9088abb0040f" name="Changes" comment="" />
+      <created>1673643493275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673643493275</updated>
+      <workItem from="1673643497203" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

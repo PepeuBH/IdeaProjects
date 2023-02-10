@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AED2 Lista 2 Ex 1/AED2 Lista 2 Ex 1.iml" filepath="$PROJECT_DIR$/AED2 Lista 2 Ex 1/AED2 Lista 2 Ex 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aluno/Aluno.iml" filepath="$PROJECT_DIR$/Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaComposicao001/AulaComposicao001.iml" filepath="$PROJECT_DIR$/AulaComposicao001/AulaComposicao001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaComposicao002/AulaComposicao002.iml" filepath="$PROJECT_DIR$/AulaComposicao002/AulaComposicao002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulaVetoresParte2/AulaVetoresParte2.iml" filepath="$PROJECT_DIR$/AulaVetoresParte2/AulaVetoresParte2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combinador/Combinador.iml" filepath="$PROJECT_DIR$/Combinador/Combinador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copa do Mundo/Copa do Mundo.iml" filepath="$PROJECT_DIR$/Copa do Mundo/Copa do Mundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copa do Mundo ArquivoTXT/Copa do Mundo ArquivoTXT.iml" filepath="$PROJECT_DIR$/Copa do Mundo ArquivoTXT/Copa do Mundo ArquivoTXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundo Fila Celula/CopaDoMundo Fila Celula.iml" filepath="$PROJECT_DIR$/CopaDoMundo Fila Celula/CopaDoMundo Fila Celula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundo Fila Circular/CopaDoMundo Fila Circular.iml" filepath="$PROJECT_DIR$/CopaDoMundo Fila Circular/CopaDoMundo Fila Circular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoBabouSorte/CopaDoMundoBabouSorte.iml" filepath="$PROJECT_DIR$/CopaDoMundoBabouSorte/CopaDoMundoBabouSorte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoInsertion/CopaDoMundoInsertion.iml" filepath="$PROJECT_DIR$/CopaDoMundoInsertion/CopaDoMundoInsertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoListaVetor/CopaDoMundoListaVetor.iml" filepath="$PROJECT_DIR$/CopaDoMundoListaVetor/CopaDoMundoListaVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoMerge/CopaDoMundoMerge.iml" filepath="$PROJECT_DIR$/CopaDoMundoMerge/CopaDoMundoMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoProfessor/CopaDoMundoProfessor.iml" filepath="$PROJECT_DIR$/CopaDoMundoProfessor/CopaDoMundoProfessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoQuick/CopaDoMundoQuick.iml" filepath="$PROJECT_DIR$/CopaDoMundoQuick/CopaDoMundoQuick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopaDoMundoSelection/CopaDoMundoSelection.iml" filepath="$PROJECT_DIR$/CopaDoMundoSelection/CopaDoMundoSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca001/Heranca001.iml" filepath="$PROJECT_DIR$/Heranca001/Heranca001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsTeste3/InsTeste3.iml" filepath="$PROJECT_DIR$/InsTeste3/InsTeste3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaDupEncad/ListaDupEncad.iml" filepath="$PROJECT_DIR$/ListaDupEncad/ListaDupEncad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memebros Estaticos/Memebros Estaticos.iml" filepath="$PROJECT_DIR$/Memebros Estaticos/Memebros Estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeTeste2/MergeTeste2.iml" filepath="$PROJECT_DIR$/MergeTeste2/MergeTeste2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratica Introducao Verde Recursivo/Pratica Introducao Verde Recursivo.iml" filepath="$PROJECT_DIR$/Pratica Introducao Verde Recursivo/Pratica Introducao Verde Recursivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratica-1/Pratica-1.iml" filepath="$PROJECT_DIR$/Pratica-1/Pratica-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratica-2/Pratica-2.iml" filepath="$PROJECT_DIR$/Pratica-2/Pratica-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produto/Produto.iml" filepath="$PROJECT_DIR$/Produto/Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste2/Teste2.iml" filepath="$PROJECT_DIR$/Teste2/Teste2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoOrdenacaoCopaBubble/TrabalhoOrdenacaoCopaBubble.iml" filepath="$PROJECT_DIR$/TrabalhoOrdenacaoCopaBubble/TrabalhoOrdenacaoCopaBubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangulo/Triangulo.iml" filepath="$PROJECT_DIR$/Triangulo/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste3/teste3.iml" filepath="$PROJECT_DIR$/teste3/teste3.iml" />
+    </modules>
+  </component>
+</project>
